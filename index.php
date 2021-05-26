@@ -598,15 +598,7 @@
                         </div>
                         <div class="col-lg-8">
                             <div class="rounded bg-light py-4 mt-3 p-3" style="box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);">
-                                <div class="plan-header  text-center">
-                                    <h4 class="mt-0 pt-0">Or PAY To
-                                        <span class="text-danger">0710480817, ACCESS BANK
-                                            OJUGO SAMSON EHIS</span>.
-                                        Call or text me on
-                                        <span class="text-danger">080114496446</span>
-                                        after payment</h4>
-                                    <a href="https://wa.me/23407051194940" target="blank" class="text-danger"><span style="font-weight: 900; font-size: 20px">Or click here to get it via WHATSAPP<img src="images/whatsapp.png" alt="whatsapp" width="75" height="75" class="img-fluid"></span></a>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -659,15 +651,7 @@
                         <h3 style="padding: 7px; margin-top: -6px" class="text-danger"><b>&#8358 40,000</b></h3>
                         <h5 style="margin-top: -20px"><strike class="text-muted">
                                 &#8358 150,000</strike></h5>
-                        <div class="plan-header">
-                            <h6 class="mt-0 pt-0">Or PAY To
-                                <span class="text-danger">0710480817, ACCESS BANK
-                                    OJUGO SAMSON EHIS</span>.
-                                Call or text me on
-                                <span class="text-danger">080114496446</span>
-                                after payment</h6>
-                            <a href="https://wa.me/23407051194940" target="blank" class="text-danger"><span style="font-weight: 600; font-size: 13px">Or click here to get it via WHATSAPP<img src="images/whatsapp.png" alt="whatsapp" width="50" height="50" class="img-fluid"></span></a>
-                        </div>
+                        
                     </div>
                     <form method="post" id="register">
                         <div class="row text-left">
