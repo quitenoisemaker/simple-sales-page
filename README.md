@@ -2,5 +2,5 @@
 A simple sales page created for mainly for Online marketing purpose
 
 <div>
-<img src="image/sales.png">
+<img src="images/sales.png">
 </div>
